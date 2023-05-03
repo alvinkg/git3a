@@ -44,7 +44,7 @@ Uninstallation
 
 
 Steps
-1. ADd Logo or Banner
+1. Add Logo or Banner
 2. Add Badges
 3. Short Project Description
 4. Add Gif demo
