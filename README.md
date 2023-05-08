@@ -2,6 +2,9 @@
 ## Explains the Project
 ## Explains how to install
 ## Explains How to Use
+
+
+
 a link is:
 text...[link](url)...text
 ```bash
@@ -52,4 +55,6 @@ Steps
 6. Additional Info
 7. Contribution
 8. License
-9. 
+9. References
+text...[link](url)...text
+[gitignore in Visual Studio Code](https://www.youtube.com/watch?v=ZmGW45eZOg8)
